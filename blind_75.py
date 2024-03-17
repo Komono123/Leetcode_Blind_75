@@ -3,6 +3,8 @@ from typing import List
 
 class Hash_Map:
 
+    """ All Hash Map related questions will be added here."""
+
     def two_sum(self,nums:List[int],target: int) -> List[int]:
 
         """Unordered array, Ex: [2,1,5,3] and the target is 4, return [1,3] as index"""
