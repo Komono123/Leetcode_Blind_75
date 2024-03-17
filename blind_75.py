@@ -2,7 +2,7 @@
 from typing import List
 
 class Hash_Map:
-
+    """ All Hash Map related questions will be added here, to be continued."""
     def two_sum(self,nums:List[int],target: int) -> List[int]:
 
         """Unordered array, Ex: [2,1,5,3] and the target is 4, return [1,3] as index"""
@@ -71,10 +71,8 @@ class Hash_Map:
 
 
         
-
-
-
 class Binary_Search:
+
 
     def simpliest_binary_search(self):
         print("0")
